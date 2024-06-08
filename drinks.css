@@ -147,6 +147,7 @@ main{
 }
 .image{
     height:100%;
+	width:35%;
     box-sizing:border-box;
     padding:5px;
     border-radius:15px;
